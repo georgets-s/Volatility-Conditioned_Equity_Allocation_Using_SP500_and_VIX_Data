@@ -19,7 +19,9 @@ The project focuses on risk management and regime based allocation rather than r
 | High volatility   | VIX_z ≥ 1     | Stress / risk-off regime |
 
 Low volatility → 100% equity exposure
+
 Medium volatility → 50% equity exposure
+
 High volatility → 0% equity exposure (capital preservation)
 
 
