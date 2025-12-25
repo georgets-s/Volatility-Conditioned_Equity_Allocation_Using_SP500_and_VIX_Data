@@ -1,0 +1,2 @@
+# Volatility-Conditioned_Equity_Allocation_Using_SP500_and_VIX_Data
+This project compares two S&amp;P 500 portfolios from early 2000 to late 2024: one based solely on price indicators and another that conditions equity exposure on VIX based volatility regimes. The goal is to assess whether volatility aware allocation improves risk adjusted performance and drawdown control versus a price only strategy.
